@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6evY2BtArNS_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">An eLearning Sample - Lloyd Carew-Reid</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/61SBf1DtqLH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">An eLearning Sample</name>
+			<description lang="und">An eLearning Sample</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5kmYWtEH9E3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Food and Nutrition Policies for Providing Safe and Nutritious Meals</name>
+			<description lang="und">Food and Nutrition Policies for Providing Safe and Nutritious Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6odTlkkBpLp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section 2 − Deliveries and Storage</name>
+			<description lang="und">Section 2 − Deliveries and Storage</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5osKMswi90x" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Overview Delivery &amp; Storage</name>
+			<description lang="und">Overview Delivery &amp; Storage</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5wZ9TmGAM67" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">General Procedure</name>
+			<description lang="und">General Procedure</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6OAR6Xx79AH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Food Receiving Log</name>
+			<description lang="und">The Food Receiving Log</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5dBfQfKjhFW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Are you ready?</name>
+			<description lang="und">Are you ready?</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6XQwGdrzF7u" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 1:  </name>
+			<description lang="und">Step 1:  </description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5yyCsACE3Ot" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Example</name>
+			<description lang="und">Example</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/67vRoG8nVYD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Temperature and Quality for…</name>
+			<description lang="und">Temperature and Quality for…</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6UGcjNR9x55" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Check for tampering</name>
+			<description lang="und">Check for tampering</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6Pp0ucdOlML" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Check for contamination</name>
+			<description lang="und">Check for contamination</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5gPRhMbfDV5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Check for rotten or moldy fruit and vegetables</name>
+			<description lang="und">Check for rotten or moldy fruit and vegetables</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6JmCBoSBALO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Check for Swollen or dented cans</name>
+			<description lang="und">Check for Swollen or dented cans</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/636sG3LulSK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What action do I take if I reject an item?</name>
+			<description lang="und">What action do I take if I reject an item?</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6FwYhZQwgtH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Temperature and Quality for…</name>
+			<description lang="und">Temperature and Quality for…</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/62h1AheYq29" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cold Ingredients and Meals</name>
+			<description lang="und">Cold Ingredients and Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5Wx0V6vOcqI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cold Ingredients and Meals</name>
+			<description lang="und">Cold Ingredients and Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6DwLjH61NuW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cold Ingredients and Meals</name>
+			<description lang="und">Cold Ingredients and Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6SaT7W1l8LY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Food Receiving Log</name>
+			<description lang="und">The Food Receiving Log</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5bYbQKNmSXP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What action do I take if I reject and item?</name>
+			<description lang="und">What action do I take if I reject and item?</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6pQc3WCaLje" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Temperature and Quality for…</name>
+			<description lang="und">Temperature and Quality for…</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5kg5x5NBzfQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hot Meals</name>
+			<description lang="und">Hot Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6GuEj7hKRXl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Food Receiving Log</name>
+			<description lang="und">The Food Receiving Log</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/65aWwL4TKRg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What action do I take if I reject an item?</name>
+			<description lang="und">What action do I take if I reject an item?</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6YzVhxdXCC0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Important</name>
+			<description lang="und">Important</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5lCBH89YgNV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quantity</name>
+			<description lang="und">Quantity</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5rw54njj8VZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 2</name>
+			<description lang="und">Step 2</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6gWyoNsn7UO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step 2:  </name>
+			<description lang="und">Step 2:  </description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5gjsPXmycov" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/65urBMqTLIK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cold Ingredients </name>
+			<description lang="und">Cold Ingredients </description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/63LTjvKD5O5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Cold Ingredients </name>
+			<description lang="und">Cold Ingredients </description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6U5lP9KxRcY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Refrigerator Food Storage Chart</name>
+			<description lang="und">Refrigerator Food Storage Chart</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5fJaEI3cl6S" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Frozen Ingredients and Meals</name>
+			<description lang="und">Frozen Ingredients and Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5bMkTJsMFn1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hot Meals</name>
+			<description lang="und">Hot Meals</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/6SmSErwJ4gw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Food Receiving Log</name>
+			<description lang="und">The Food Receiving Log</description>
+		</activity>
+		<activity id="http://6evY2BtArNS_course_id/5V8VMaW1fmN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thank you!</name>
+			<description lang="und">Thank you!</description>
+		</activity>
+	</activities>
+</tincan>
